@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ne8tj1');
+  src:  url('fonts/icomoon.eot?ne8tj1#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ne8tj1') format('truetype'),
+    url('fonts/icomoon.woff?ne8tj1') format('woff'),
+    url('fonts/icomoon.svg?ne8tj1#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-coffeescript:before {
+  content: "\e909";
+}
+.icon-shuttlecock:before {
+  content: "\e905";
+}
+.icon-library2:before {
+  content: "\e900";
+}
+.icon-library:before {
+  content: "\e902";
+}
+.icon-university:before {
+  content: "\e902";
+}
+.icon-close:before {
+  content: "\e906";
+}
+.icon-graduation-cap:before {
+  content: "\e904";
+}
+.icon-mortar-board:before {
+  content: "\e904";
+}
+.icon-tablet-landscape:before {
+  content: "\e907";
+}
+.icon-office:before {
+  content: "\e903";
+}
+.icon-home2:before {
+  content: "\e901";
+}
+.icon-office:before {
+  content: "\e903";
+}
+.icon-pencil2:before {
+  content: "\e908";
+}
+.icon-camera:before {
+  content: "\e90f";
+}
+.icon-music:before {
+  content: "\e911";
+}
+.icon-library1:before {
+  content: "\e921";
+}
+.icon-spinner:before {
+  content: "\e97a";
+}
